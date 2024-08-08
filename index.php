@@ -1,6 +1,14 @@
 
 <xmlns="http:/www.w3.org/1999/xhtml">
 <head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-49FCK2VX0X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-49FCK2VX0X');
+</script>
   <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
     <meta name="robots" content="noindex,nofollow">
     <title>Windows/MacOS Support-Center</title>
